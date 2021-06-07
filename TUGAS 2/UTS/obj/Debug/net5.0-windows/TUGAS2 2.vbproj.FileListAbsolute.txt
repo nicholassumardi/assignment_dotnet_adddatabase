@@ -1,0 +1,27 @@
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\TUGAS2 2.exe
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\TUGAS2 2.deps.json
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\TUGAS2 2.runtimeconfig.json
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\TUGAS2 2.runtimeconfig.dev.json
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\TUGAS2 2.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\ref\TUGAS2 2.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\TUGAS2 2.pdb
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\bin\Debug\net5.0-windows\Zstandard.Net.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.vbprojAssemblyReference.cache
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\UTS.Form1.resources
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.vbproj.GenerateResource.cache
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.AssemblyInfoInputs.cache
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.AssemblyInfo.vb
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.vbproj.CoreCompileInputs.cache
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.vbproj.CopyComplete
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\ref\TUGAS2 2.dll
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.pdb
+D:\Microsoft\TUGAS\TUGAS 2\UTS\UTS\obj\Debug\net5.0-windows\TUGAS2 2.genruntimeconfig.cache

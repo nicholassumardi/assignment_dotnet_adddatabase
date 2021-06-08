@@ -11,6 +11,7 @@ Public Class Form1
     Dim ModelPembayaran As New ModelPembayaran
     Dim koneksi As New Koneksi
     Dim idPesanan As Integer
+    Dim idPembayaran As Integer
     Dim idBarang As Integer
     Dim namaBarang As String
     Dim hargaBarang As Integer
@@ -156,10 +157,11 @@ Public Class Form1
         uangPembeli = Integer.Parse(TextBox12.Text)
         totalHarga = Integer.Parse(TextBox13.Text)
         idPesanan = Integer.Parse(ModelPesanan.getID())
+        idPembayaran = Integer.Parse(ModelPembayaran.getID())
         Dim Kembalian As Integer
         Kembalian = uangPembeli - totalHarga
         ModelPembayaran.addPembayaran(uangPembeli, Kembalian, idPesanan)
-
+        ModelPesanan.insertIdBayar(idPesanan, idPembayaran)
         MsgBox("Kembalian = " & Kembalian)
 
 

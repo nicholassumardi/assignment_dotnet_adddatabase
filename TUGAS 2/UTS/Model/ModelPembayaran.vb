@@ -15,6 +15,20 @@
             End Try
         End If
     End Sub
+    Public Function getID()
+        Dim result As Integer
+        If koneksi.koneksi() Then
+            sqlQuery = "select MAX(id_pembayaran) FROM pembayaran"
+            Try
+                result = koneksi.getSingle(sqlQuery)
+            Catch ex As Exception
+                Console.WriteLine(ex.ToString())
+            Finally
 
+                koneksi.sqlKoneksi.Close()
+            End Try
+        End If
+        Return result
+    End Function
 
 End Class
